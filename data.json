@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Unit test gagal",
+    "category": "software"
+  },
+  {
+    "text": "Programnya jalan, tapi ada bug",
+    "category": "software"
+  },
+  {
+    "text": "Butuh power supply baru",
+    "category": "hardware"
+  },
+  {
+    "text": "Kapasitas harddisk tidak cukup",
+    "category": "hardware"
+  },
+  {
+    "text": "unit-tests",
+    "category": "software"
+  },
+  {
+    "text": "program",
+    "category": "software"
+  },
+  {
+    "text": "power supply",
+    "category": "hardware"
+  },
+  {
+    "text": "drive",
+    "category": "hardware"
+  },
+  {
+    "text": "harddisk",
+    "category": "hardware"
+  },
+  {
+    "text": "it needs more memory",
+    "category": "hardware"
+  },
+  {
+    "text": "code",
+    "category": "software"
+  },
+  {
+    "text": "ada bug di dalam code",
+    "category": "software"
+  },
+  {
+    "text": "memory swap",
+    "category": "hardware"
+  },
+  {
+    "text": "test code",
+    "category": "software"
+  },
+  {
+    "text": "i love computers",
+    "category": "hardware"
+  },
+  {
+    "text": "programming",
+    "category": "software"
+  },
+  {
+    "text": "pc rusak",
+    "category": "hardware"
+  },
+  {
+    "text": "computer",
+    "category": "hardware"
+  },
+  {
+    "text": "beliin laptop",
+    "category": "hardware"
+  },
+  {
+    "text": "paling suka maen games",
+    "category": "software"
+  }
+]
